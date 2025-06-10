@@ -12,4 +12,6 @@ Below is the display of the Frontend UI.
 
 Pagination appears when items exceed 10.
 
+If there’s anything I overlooked, feel free to contact me via email.
+
 Author: Kaitoven Chen (formerly Bruce Kevin Chen)
